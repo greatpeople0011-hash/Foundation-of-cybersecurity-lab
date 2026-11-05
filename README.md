@@ -1,1 +1,1 @@
-# Foundation-of-cybersecurity-lab
+# Foundations-of-Cyber-Security-Lab
